@@ -1,1 +1,20 @@
 /* TODO: Make it awesome */
+html{
+    background-color:rgb(55, 70, 114) ;
+    margin: 20px 20px 30px 30px;
+    color: seashell;
+    text-align: center;
+    font-size: 30px;
+}
+nav ul li{
+    color: sienna;
+    display: inline;
+    padding: 20px;
+    text-decoration: none;
+    /* text-decoration-style: none; */
+  
+}
+h1{
+    font-size: 50px ;
+    font-style: oblique;
+}
