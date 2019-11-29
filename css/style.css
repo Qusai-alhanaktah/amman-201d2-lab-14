@@ -1,6 +1,6 @@
 /* TODO: Make it awesome */
 html{
-    background-color:rgb(55, 70, 114) ;
+    background-color:rgb(105, 137, 231) ;
     margin: 20px 20px 30px 30px;
     color: seashell;
     text-align: center;
@@ -14,7 +14,9 @@ nav ul li{
     /* text-decoration-style: none; */
   
 }
-h1{
+body header h1{
     font-size: 50px ;
     font-style: oblique;
+    background: rosybrown;
+    padding: 20px;
 }
